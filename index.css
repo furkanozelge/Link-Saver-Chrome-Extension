@@ -1,0 +1,42 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:10px;
+    margin: 0;
+    min-width: 400px;
+
+}
+button{
+    background-color: pink;
+    color: black;
+    width: 100px;
+    margin-top: 5px;
+    border: honeydew;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+input{
+    width: 100%;
+    padding-left: 7px;
+    padding-right: 7px; 
+    padding-bottom: 4px;
+    padding-top: 4px;
+    background-color: lavenderblush;
+    border: lpx solid #5f993341;
+    box-sizing: border-box;
+    margin-bottom: 4px;
+}
+ul{
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+li{
+    list-style-type: none;
+     
+}  
+li a{
+    color: pink;
+}
