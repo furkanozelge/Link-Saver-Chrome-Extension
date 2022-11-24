@@ -12,6 +12,7 @@ inputBtn.addEventListener("click",function(){
 
 })
 function renderLeads(){
+    //list
     let listItems = ""
     for(let i = 0; i<myLeads.length;i++){
         let httpControl = myLeads[i];
